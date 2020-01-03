@@ -1,4 +1,4 @@
-const myKey = "";
+const myKey = "WWJUgTlwlv3O3ygkvY8EdqgSvFweLsMK";
 
 const gifURLbase = "https://api.giphy.com/v1/gifs/search";
 const gifURLRandom = "https://api.giphy.com/v1/gifs/random";
